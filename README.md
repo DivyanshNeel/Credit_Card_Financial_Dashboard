@@ -6,7 +6,7 @@
 - [Tech Stack](#Tech-Stack)
 - [DAX Queries](#DAX-Queries)
     - [Calculated column](#Calculated-column)
-    - [Calulated measures](#Calulated-measuress)
+    - [Calulated measures](#Calulated-measures)
 - [Insights and Recommendation ](#Insights-and-Recommendation)
 - [Dashboard](#Dashboard)
 - [Conclusion](#Conclusion)
