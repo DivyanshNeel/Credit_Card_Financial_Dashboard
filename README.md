@@ -102,12 +102,12 @@ The dataset belongs to a US based credit card company enclosing the data from Ja
   2. `CustomerAcqCost = SUM('public credit_card'[Customer_Acq_Cost])`
   3. `DeliquentAccRate = DIVIDE(SUM('public credit_card'[Delinquent_Acc]),COUNT('public customer'[Client_Num]))`
   4. `RevenuePerCustomer = DIVIDE([Total_Revenue],COUNT('public customer'[Client_Num]))`
-- ### Transaction per card
+- ### Transaction per card table
   1. `BlueCard = CALCULATE(SUM('public credit_card'[Total_Trans_Amt]),'public credit_card'[Card_Category] = "Blue")`
   2. `%BlueCard = DIVIDE([BlueCard],[TotalTransAmount])`
 > [!IMPORTANT]
 > Similarly, sum of transaction for other cards can also be calculated.
-- ### Revenue per card
+- ### Revenue per card table
   1. `BlueRevenue = CALCULATE(SUM('public credit_card'[Revenue]), 'public credit_card'[Card_Category] = "Blue")`
 > [!IMPORTANT]
 > Similarly, sum of revenue for other cards can also be calculated.
