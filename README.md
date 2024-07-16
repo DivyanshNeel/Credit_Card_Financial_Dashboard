@@ -68,4 +68,6 @@ The dataset belongs to a US based credit card company enclosing the data from Ja
 | Income                      | int       | Income of the customer                   |
 | Cust_Satisfaction_Score     | int       | Customer satisfaction score              |
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Tech Stack
+![Microsoft Excel Badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&labelColor=black) ![Microsoft Power BI Badge](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&labelColor=black) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=Power%20BI&labelColor=black) ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=PostgreSQL&labelColor=black) ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=Python&labelColor=black&color=4584b6) ![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=0078d7&labelColor=black&color=0078d7)
