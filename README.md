@@ -113,5 +113,7 @@ Income_Range = `SWITCH(
 > Similarly, sum of revenue for other cards can also be calculated.
 
 # Dashboard Description
+- ## [Credit card transaction report](https://github.com/DivyanshNeel/Credit_Card_Financial_Dashboard/blob/main/Importing_Data.py)
+![Credit card transaction report](https://github.com/DivyanshNeel/Credit_Card_Financial_Dashboard/blob/main/1.Credit_Card_Transaction_Report.jpg)
 # Key Learning Skills
 - Data import
