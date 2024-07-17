@@ -111,3 +111,5 @@ Income_Range = `SWITCH(
   1. BlueRevenue = `CALCULATE(SUM('public credit_card'[Revenue]), 'public credit_card'[Card_Category] = "Blue")`
 > [!IMPORTANT]
 > Similarly, sum of revenue for other cards can also be calculated.
+
+# Dashboard Description
