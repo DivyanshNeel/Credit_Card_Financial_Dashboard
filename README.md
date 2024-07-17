@@ -75,7 +75,7 @@ The dataset belongs to a US based credit card company enclosing the data from Ja
 # DAX Queries
 ## Calculated column
 - ### Age group
-`Age_Group = SWITCH(TRUE(),
+Age_Group = `SWITCH(TRUE(),
 'public customer'[Customer_Age] < 30, "20-30",
 'public customer'[Customer_Age] >= 30 && 'public customer'[Customer_Age] < 40, "30-40",
 'public customer'[Customer_Age] >= 40 && 'public customer'[Customer_Age] < 50, "40-50",
@@ -84,7 +84,7 @@ The dataset belongs to a US based credit card company enclosing the data from Ja
 "unknown"
 )`
 ### Income group 
-`Income_Range = SWITCH(
+Income_Range = `SWITCH(
     TRUE(),
     'public customer'[Income] < 35000, "Low",
     'public customer'[Income] >= 35000 && 'public customer'[Income] < 70000, "Medium",
@@ -93,21 +93,21 @@ The dataset belongs to a US based credit card company enclosing the data from Ja
 )`
 ## Calulated measures
 - ### Credit card measures table
-  1. `Total Revenue = SUM('public credit_card'[Annual_Fees])+SUM('public credit_card'[Interest_Earned])` 
-  2. `current week revenue = CALCULATE(SUM('public credit_card'[Revenue]),FILTER(ALL('public credit_card'),'public credit_card'[week_num2] = MAX('public credit_card'[week_num2])))`
-  3. `previous week revenue = CALCULATE(SUM('public credit_card'[Revenue]),FILTER(ALL('public credit_card'),'public credit_card'[week_num2] = MAX('public credit_card'[week_num2])-1))`
-  4. `wow_revenue = DIVIDE(([current_week_revenue]-[previous_week_revenue]),[previous_week_revenue])`
+  1. Total Revenue = `SUM('public credit_card'[Annual_Fees])+SUM('public credit_card'[Interest_Earned])` 
+  2. current week revenue = `CALCULATE(SUM('public credit_card'[Revenue]),FILTER(ALL('public credit_card'),'public credit_card'[week_num2] = MAX('public credit_card'[week_num2])))`
+  3. previous week revenue = `CALCULATE(SUM('public credit_card'[Revenue]),FILTER(ALL('public credit_card'),'public credit_card'[week_num2] = MAX('public credit_card'[week_num2])-1))`
+  4. wow_revenue = `DIVIDE(([current_week_revenue]-[previous_week_revenue]),[previous_week_revenue])`
 - ### Customer measures table
-- 1. `average utilization rate = AVERAGE('public credit_card'[Avg_Utilization_Ratio])`
-  2. `CustomerAcqCost = SUM('public credit_card'[Customer_Acq_Cost])`
-  3. `DeliquentAccRate = DIVIDE(SUM('public credit_card'[Delinquent_Acc]),COUNT('public customer'[Client_Num]))`
-  4. `RevenuePerCustomer = DIVIDE([Total_Revenue],COUNT('public customer'[Client_Num]))`
+- 1. average utilization rate = `AVERAGE('public credit_card'[Avg_Utilization_Ratio])`
+  2. CustomerAcqCost = `SUM('public credit_card'[Customer_Acq_Cost])`
+  3. DeliquentAccRate = `DIVIDE(SUM('public credit_card'[Delinquent_Acc]),COUNT('public customer'[Client_Num]))`
+  4. RevenuePerCustomer = `DIVIDE([Total_Revenue],COUNT('public customer'[Client_Num]))`
 - ### Transaction per card table
-  1. `BlueCard = CALCULATE(SUM('public credit_card'[Total_Trans_Amt]),'public credit_card'[Card_Category] = "Blue")`
-  2. `%BlueCard = DIVIDE([BlueCard],[TotalTransAmount])`
+  1. BlueCard = `CALCULATE(SUM('public credit_card'[Total_Trans_Amt]),'public credit_card'[Card_Category] = "Blue")`
+  2. %BlueCard = `DIVIDE([BlueCard],[TotalTransAmount])`
 > [!IMPORTANT]
 > Similarly, sum of transaction for other cards can also be calculated.
 - ### Revenue per card table
-  1. `BlueRevenue = CALCULATE(SUM('public credit_card'[Revenue]), 'public credit_card'[Card_Category] = "Blue")`
+  1. BlueRevenue = `CALCULATE(SUM('public credit_card'[Revenue]), 'public credit_card'[Card_Category] = "Blue")`
 > [!IMPORTANT]
 > Similarly, sum of revenue for other cards can also be calculated.
