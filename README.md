@@ -2,12 +2,12 @@
 # Table of content
 - [Project Description](#Project-Description)
 - [Dataset Description](#Dataset-Description)
-- [Tech Stack](#Tech-Stack)
 - [DAX Queries](#DAX-Queries)
     - [Calculated column](#Calculated-column)
     - [Calulated measures](#Calulated-measures)
-- [Insights and Recommendation ](#Insights-and-Recommendation)
 - [Dashboard Description](#Dashboard-Description)
+- [Insights and Recommendation ](#Insights-and-Recommendation)
+- [Tech Stack](#Tech-Stack)
 - [Key Learning Skills](#Key-Learning-Skills)
 - [Conclusion](#Conclusion)
 
@@ -113,3 +113,5 @@ Income_Range = `SWITCH(
 > Similarly, sum of revenue for other cards can also be calculated.
 
 # Dashboard Description
+# Key Learning Skills
+- Data import
