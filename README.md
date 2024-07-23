@@ -9,7 +9,7 @@
 - [Insights and Recommendations](#Insights-and-Recommendations)
 - [Tech Stack](#Tech-Stack)
 - [Key Learning Skills](#Key-Learning-Skills)
-- [Conclusion](#Conclusion)
+- [Your Contribution](#Your-Contribution)
 
 
 
@@ -193,3 +193,12 @@ Income_Range = `SWITCH(
 
  > Data Analysis and visualization
   - Performed data analysis and then created visual for developing the dashboard
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Your Contribution
+- I am incredibly grateful for your support and admiration of my effort. Please feel free to share any recommendations or ideas you may have with me. I can really benefit from your feedback as I continue to refine and improve future projects.
+
+- I am now looking for an internship or entry-level job, so any help and support you can provide would be greatly appreciated. I promise to be appreciative of any assistance provided.
+
+# By: **Divyansh Neel**
+`24/07/2024`
