@@ -15,7 +15,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Project Description
-The purpose of this project is to analyze the dataset and create a weekly transaction, customer - credit card dashboard that provides insight into performance measures and trends for better desicion making.
+The purpose of this project is to analyze the dataset of a credi card company based of USA and create a weekly transaction, customer - credit card dashboard that provides insight into performance measures and trends for better desicion making.
 
 Stakeholders can utilize the provided insights and recommendations to make potential changes that can result in possible revenue growth.
 
