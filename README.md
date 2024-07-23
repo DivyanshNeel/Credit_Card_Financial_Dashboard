@@ -6,7 +6,7 @@
     - [Calculated column](#Calculated-column)
     - [Calulated measures](#Calulated-measures)
 - [Dashboard Description](#Dashboard-Description)
-- [Insights and Recommendation ](#Insights-and-Recommendation)
+- [Insights and Recommendations ](#Insights-and-Recommendation)
 - [Tech Stack](#Tech-Stack)
 - [Key Learning Skills](#Key-Learning-Skills)
 - [Conclusion](#Conclusion)
@@ -132,5 +132,13 @@ Income_Range = `SWITCH(
 3. on bottom there is heat map which shows revenue by the customer job and age, and it also map visual which has revenue by states.
 4. Similar to trasantion report header, customer report header also has a navigation button and slicer pane.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Insights and Recommendations 
+ ## Insights:
+ - **Total Revenue:** Total revenue is **$10.79 Million**
+ - **Total Profit:** Total profit is **$9.82 Million**
+ - **Total Transaction Amount:** Total transaction amt is **$44.52 Million**
+ - **Revenue by category:** Blue card alone brings 85% of the revenue, together with sliver card they contibute to about 95% of the revenue
+ - **Revenue distribution:** most of the revenue is made on the first month of every quarter i.e. january, april, july and october
 # Key Learning Skills
-- Data import
+ > Data import
+  - 
