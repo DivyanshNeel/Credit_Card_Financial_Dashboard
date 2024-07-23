@@ -134,11 +134,54 @@ Income_Range = `SWITCH(
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Insights and Recommendations 
  ## Insights:
- - **Total Revenue:** Total revenue is **$10.79 Million**
- - **Total Profit:** Total profit is **$9.82 Million**
- - **Total Transaction Amount:** Total transaction amt is **$44.52 Million**
+   ### WoW change - Week 53 (31 - December)
+ - Revenue increased by **3.3%**
+ - Transaction amount increased by **35%**
+ - Transaction volume increased by **3.3%**
+ - Count of customer increased by **13%** 
+### YTD overview
+ - **Total Revenue:** Total revenue is **$11 Million**
+ - **Total Profit:** Total profit is **$10 Million**
+ - **Total Transaction Amount:** Total transaction amt is **$46 Million**
  - **Revenue by category:** Blue card alone brings 85% of the revenue, together with sliver card they contibute to about 95% of the revenue
  - **Revenue distribution:** most of the revenue is made on the first month of every quarter i.e. january, april, july and october
+ - **70%** of the cusotmers swipe their cards whereas only 6% of the them uses online method.
+ - **buisnessman, white-collar and selfemployed** customer of age between **40 to 60** contributes to 50% of the revenue
+ - **TX, CA and NY** contributes to 69% of the revenue
+## Recommendations:
+1. **Promote Rewards and Benefits:**
+   - Enhance marketing efforts to showcase rewards, cashback offers, and exclusive benefits to attract and retain customers.
+
+2. **Quarterly Promotions:**
+   - Leverage the trend of increased revenue in the first month of every quarter (January, April, July, and October) by offering special promotions and discounts during these periods.
+
+3. **Targeted Marketing Campaigns:**
+   - Focus on middle-aged individuals (40-60) in the business, white-collar, and self-employed sectors.
+   - Emphasize the convenience and security of card usage tailored to their financial needs.
+
+4. **Geographic Focus:**
+   - Concentrate marketing efforts in TX, CA, and NY, which together contribute to 69% of the revenue.
+   - Develop localized campaigns to further penetrate these high-revenue markets.
+
+5. **Enhance Online Transaction Methods:**
+   - Encourage the use of online transaction methods, currently at 6%, through incentives and educational campaigns.
+   - Improve the online transaction experience to increase adoption rates.
+
+6. **Financial Education and Planning Services:**
+   - Offer workshops or online resources to help customers better manage their finances.
+   - Focus on the low-income group to improve their financial well-being and increase their card usage.
+
+7. **Personalized Offers and Recommendations:**
+   - Use data analytics to provide tailored offers based on customers' transaction history and preferences.
+
+8. **Customer Retention Strategies:**
+   - Implement loyalty programs, personalized communications, and proactive customer service to build long-term relationships and reduce churn.
+   - Monitor and address the needs of delinquent accounts (6.6%) to improve customer satisfaction.
+
+9. **Improve Customer Satisfaction:**
+   - Focus on enhancing the overall customer experience to raise the average satisfaction score from 3.19 out of 5.
+   - Gather and act on customer feedback to identify areas for improvement.
+
 # Key Learning Skills
  > Data import
   - 
