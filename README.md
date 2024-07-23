@@ -183,4 +183,6 @@ Income_Range = `SWITCH(
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Key Learning Skills
  > Data import
-  - 
+  - Imported data to SQL datbase using python script
+> [!TIP]
+> Click [HERE](https://github.com/DivyanshNeel/Credit_Card_Financial_Dashboard/blob/main/Importing_Data.py) to get help importing data to your database.
