@@ -6,7 +6,7 @@
     - [Calculated column](#Calculated-column)
     - [Calulated measures](#Calulated-measures)
 - [Dashboard Description](#Dashboard-Description)
-- [Insights and Recommendations ](#Insights-and-Recommendation)
+- [Insights and Recommendations](#Insights-and-Recommendations)
 - [Tech Stack](#Tech-Stack)
 - [Key Learning Skills](#Key-Learning-Skills)
 - [Conclusion](#Conclusion)
