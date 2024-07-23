@@ -113,8 +113,8 @@ Income_Range = `SWITCH(
 > Similarly, sum of revenue for other cards can also be calculated.
 
 # Dashboard Description
-- ## [Credit card transaction report](https://github.com/DivyanshNeel/Credit_Card_Financial_Dashboard/blob/main/1.Credit_Card_Transaction_Report.jpg)
-![Credit card transaction report](https://github.com/DivyanshNeel/Credit_Card_Financial_Dashboard/blob/main/1.Credit_Card_Transaction_Report.jpg)
+- ## [Credit card transaction report]()
+![Credit card transaction report]()
 1. This page has 4 KPIs card visual at the top each repressnting the 4 different card categories, showing the total revenue made by them. The reference values shows the total transaction amount respectively.
 2. On bottom left there is a matrix visual which shows the revenue distribution i.e. current, previous week revenue and wow revenue over quarter, month and week. I did conditional formatting on the columns to distinguish the revenue pattern.
 3. Bottom left comprises of two visuals:
@@ -123,10 +123,10 @@ Income_Range = `SWITCH(
 5. The header also has two elements;
    - top left is the navigation button to navigate to customr report
    - top right has slicer pannel to filter out the result
-     ![Slicer pane](https://github.com/DivyanshNeel/Credit_Card_Financial_Dashboard/blob/main/3.Filter_pane.jpg)
+     ![Slicer pane]()
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-- ## [Credit card customer report](https://github.com/DivyanshNeel/Credit_Card_Financial_Dashboard/blob/main/2.Credit_Card_Customer_Report.jpg)
-![Credit card customer report](https://github.com/DivyanshNeel/Credit_Card_Financial_Dashboard/blob/main/2.Credit_Card_Customer_Report.jpg)
+- ## [Credit card customer report]()
+![Credit card customer report]()
 1. There are 6 KPIs card vusual showing total transation, avg revenue per customer, total customer acquistion cost, avg utilization ratio, total delinquent account and avg customer satifaction score. It also shows revenue distribution over payment methods.
 2. Top right has a decomposition tree showing transaction amount hierarchy by income range, gender and expense type, this visual clearly shows customer spending habbit.
 3. on bottom there is heat map which shows revenue by the customer job and age, and it also map visual which has revenue by states.
