@@ -186,3 +186,10 @@ Income_Range = `SWITCH(
   - Imported data to SQL datbase using python script
 > [!TIP]
 > Click [HERE](https://github.com/DivyanshNeel/Credit_Card_Financial_Dashboard/blob/main/Importing_Data.py) to get help importing data to your database.
+  - Furthermore, imported data from SQL database to Power BI
+
+ > Data Modeling
+  - Uing DAX, i created measures and conditional columns
+
+ > Data Analysis and visualization
+  - Performed data analysis and then created visual for developing the dashboard
