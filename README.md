@@ -198,7 +198,7 @@ Income_Range = `SWITCH(
 # Your Contribution
 - I am incredibly grateful for your support and admiration of my effort. Please feel free to share any recommendations or ideas you may have with me. I can really benefit from your feedback as I continue to refine and improve future projects.
   
-- I am now looking for an internship or entry-level job, so any help and support you can provide would be greatly appreciated. I promise to be appreciative of any assistance provided.
+- I am now looking for an entry-level job, so any help and support you can provide would be greatly appreciated. I promise to be appreciative of any assistance provided.
 
 > [!NOTE]
 > Connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-neel/)
